@@ -5,3 +5,13 @@ C:\Users\curba\repositories\Student-Grades-Manager\Student Grades Manager\Studen
 C:\Users\curba\repositories\Student-Grades-Manager\Student Grades Manager\Student Grades Manager\obj\Debug\Student Grades Manager.csproj.CoreCompileInputs.cache
 C:\Users\curba\repositories\Student-Grades-Manager\Student Grades Manager\Student Grades Manager\obj\Debug\Student Grades Manager.exe
 C:\Users\curba\repositories\Student-Grades-Manager\Student Grades Manager\Student Grades Manager\obj\Debug\Student Grades Manager.pdb
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\bin\Debug\Student Grades Manager.exe.config
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\bin\Debug\Student Grades Manager.exe
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\bin\Debug\Student Grades Manager.pdb
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student Grades Manager.csproj.AssemblyReference.cache
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student Grades Manager.exe.config
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student_Grades_Manager.FormStudent.resources
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student Grades Manager.csproj.GenerateResource.cache
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student Grades Manager.csproj.CoreCompileInputs.cache
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student Grades Manager.exe
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student Grades Manager.pdb

@@ -11,9 +11,9 @@ namespace Student_Grades_Manager
         public Student Student {  get; set; }
         public Disciplina Disciplina { get; set; }
         public int Valoare { get; set; }
-        public string Data { get; set; }
+        public DateTime Data { get; set; }
 
-        public Nota(Student student, Disciplina disciplina, int valoare, string data)
+        public Nota(Student student, Disciplina disciplina, int valoare, DateTime data)
         {
             Student = student;
             Disciplina = disciplina;

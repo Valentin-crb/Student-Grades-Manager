@@ -11,10 +11,10 @@ namespace Student_Grades_Manager
         public string Nume {  get; set; }
         public string Prenume { get; set; }
         public string CNP { get; set; }
-        public int An {  get; set; }
+        public string An {  get; set; }
         public int Grupa { get; set; }
 
-        public Student(string nume, string prenume, string cnp, int an, int grupa)
+        public Student(string nume, string prenume, string cnp, string an, int grupa)
         {
             Nume = nume;
             Prenume = prenume;

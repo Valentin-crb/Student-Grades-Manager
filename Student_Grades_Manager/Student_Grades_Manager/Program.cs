@@ -10,7 +10,7 @@ namespace Student_Grades_Manager
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormStudent());
+            Application.Run(new FormDisciplina());
         }
     }
 }

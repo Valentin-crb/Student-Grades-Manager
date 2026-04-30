@@ -15,3 +15,4 @@ C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Studen
 C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student Grades Manager.csproj.CoreCompileInputs.cache
 C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student Grades Manager.exe
 C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student Grades Manager.pdb
+C:\Users\curba\repositories\Student-Grades-Manager\Student_Grades_Manager\Student_Grades_Manager\obj\Debug\Student_Grades_Manager.FormDisciplina.resources
